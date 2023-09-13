@@ -1,0 +1,5 @@
+GENERATE MIGRATION - example
+npx typeorm migration:generate src/migration/AddedNewTables -d build/ormconfig.js
+
+RUN MIGRATION - example
+npx typeorm migration:run -d build/ormconfig.js
