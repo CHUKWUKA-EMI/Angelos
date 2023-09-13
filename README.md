@@ -1,6 +1,6 @@
 # ANGELOS
 
-Welcome to Angelos, your go-to solution for building scalable, real-time, and event-driven applications using the powerful publish/subscribe pattern. Whether you're a seasoned developer or just getting started with event-driven architecture, this repository provides a comprehensive set of tools and resources to help you master the art of Pub/Sub.
+Welcome to `ANGELOS`, your go-to solution for building scalable, real-time, and event-driven applications using the powerful publish/subscribe pattern. Whether you're a seasoned developer or just getting started with event-driven architecture, this repository provides a comprehensive set of tools and resources to help you master the art of Pub/Sub.
 
 Key Features:
 🚀 Scalable Architecture: Build applications that can handle millions of concurrent events and scale effortlessly as your user base grows.
@@ -11,7 +11,7 @@ Key Features:
 
 🔒 Security: Ensure the security of your event data with robust authentication and authorization mechanisms.
 
-🌍 Multi-Platform Support: Pub/Sub Mastermind is designed to work seamlessly across various platforms, including cloud providers, on-premises environments, and edge computing.
+🌍 Multi-Platform Support: `ANGELOS` is designed to work seamlessly across various platforms, including cloud providers, on-premises environments, and edge computing.
 
 ## Technologies used
 
